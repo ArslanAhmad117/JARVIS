@@ -1,4 +1,4 @@
-personal assistant made using python
+
 pyttsx3
 datetime
 wikipedia
